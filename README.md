@@ -1,4 +1,4 @@
-# prediction-on-country
+# prediction-on-country GDP
 
 I recently completed a machine learning project focused on predicting the growth of various countries using data-driven insights. My analysis leveraged correlation between growth predictors and a Quality of Life Index, with several interesting patterns emerging:
 
