@@ -1,6 +1,6 @@
 # prediction-on-country
 
-# I recently completed a machine learning project focused on predicting the growth of various countries using data-driven insights. My analysis leveraged correlation between growth predictors and a Quality of Life Index, with several interesting patterns emerging:
+I recently completed a machine learning project focused on predicting the growth of various countries using data-driven insights. My analysis leveraged correlation between growth predictors and a Quality of Life Index, with several interesting patterns emerging:
 
 Purchasing Power Index had a strong positive correlation (0.844), indicating that higher purchasing power in a country often aligns with a better quality of life.
 Pollution Index showed a substantial negative correlation (-0.900), underscoring that higher pollution tends to detract from overall quality of life.
